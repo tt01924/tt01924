@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, you're on Todd Taylor's Read Me!<br><br>Currently coding in Python, JavaScript, CSS, HTML.<br><br>At heart I am a conscientious and productive individual striving to engage in opportunities which benefit my career, personal growth, and morale compass.
+Hello, you're on Todd Taylor's Read Me!<br><br>Currently coding in Python, JavaScript, CSS, and HTML.<br><br>At heart I am a conscientious and productive individual striving to engage in opportunities which benefit my career, personal growth, and morale compass.
 
 
 ## 🌐 Socials:

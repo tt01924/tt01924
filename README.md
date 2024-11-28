@@ -10,7 +10,5 @@ Hello, you're on Todd Taylor's Read Me!<br><br>Currently coding in Python, JavaS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tt01924&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tt01924&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=tt01924&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

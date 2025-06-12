@@ -1,5 +1,5 @@
 # About Me:
-Hello, you're on Todd Taylor's Read Me!<br><br>Currently coding in Python, JavaScript, TypeScript, SQL, CSS, and HTML.
+Software Engineer at Skyscanner<br><br>Tech stack: Python, JavaScript, TypeScript, React, Next.JS, NodeJS, SQL, Express, AWS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/todd-taylor-a8bba2220/)
 
@@ -9,6 +9,5 @@ Hello, you're on Todd Taylor's Read Me!<br><br>Currently coding in Python, JavaS
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tt01924&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tt01924&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
